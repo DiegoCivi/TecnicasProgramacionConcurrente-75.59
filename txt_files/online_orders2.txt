@@ -1,0 +1,15 @@
+lamborghini gallardo,5
+pantalones,1000
+zapatillas,10
+anteojos,30
+sandia,90
+lamborghini gallardo,1
+lamborghini gallardo,1
+lamborghini gallardo,5
+pantalones,1000
+zapatillas,10
+remera,5
+cuadernos,3
+sandia,100
+parlantes,4
+anteojos,7

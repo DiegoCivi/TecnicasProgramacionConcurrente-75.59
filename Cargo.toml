@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    'store',
+    'ecommerce',
+    'lib',
+]

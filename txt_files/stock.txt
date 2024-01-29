@@ -1,0 +1,5 @@
+pantalones,1000
+zapatillas,4000
+anteojos,500
+camperon de boca,700
+lamborghini gallardo,10

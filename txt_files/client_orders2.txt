@@ -1,0 +1,15 @@
+zapatillas,10
+zapatillas,5
+lamborghini gallardo,1
+remera,10
+anteojos,5
+sandia,9
+zapatillas,5
+camperon de boca,50
+pantalones,5
+anteojos,10
+zapatillas,5
+camperon de boca,100
+pantalones,5
+anteojos,10
+zapatillas,5

@@ -1,0 +1,13 @@
+camperon de boca,40
+pantalones,10
+anteojos,20
+zapatillas,30
+lamborghini gallardo,5
+pantalones,1000
+zapatillas,10
+zapatillas,5
+anteojos,20
+pantalones,30
+anteojos,5
+zapatillas,10
+camperon de boca,30

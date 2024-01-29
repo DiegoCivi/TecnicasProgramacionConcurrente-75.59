@@ -1,0 +1,6 @@
+camperon de boca,99
+pantalones,99
+zapatillas,99
+anteojos,105
+remera,20
+sandia,2000
